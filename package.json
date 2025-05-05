@@ -4,6 +4,7 @@
   "description": "primo test function merge",
   "main": "index.js",
   "scripts": {
+    "execute": "ts-node execute.ts",
     "test": "jest",
     "test:watch": "jest --watchAll",
     "test:coverage": "jest --coverage"
